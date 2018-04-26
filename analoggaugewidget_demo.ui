@@ -96,9 +96,12 @@
             <item row="6" column="2">
              <widget class="QLCDNumber" name="lcdNumber_9">
               <property name="styleSheet">
-               <string notr="true">
-background-color: rgb(0, 0, 0);
-color: rgb(0, 255, 0);</string>
+               <string notr="true">QLCDNumber {
+	border: 1px solid black;
+	border-radius: 5px;
+	background-color: rgb(220, 220, 220);
+	color: rgb(50, 50, 50);
+}</string>
               </property>
               <property name="frameShape">
                <enum>QFrame::NoFrame</enum>
@@ -129,9 +132,12 @@ color: rgb(0, 255, 0);</string>
                </font>
               </property>
               <property name="styleSheet">
-               <string notr="true">
-background-color: rgb(0, 0, 0);
-color: rgb(0, 255, 0);</string>
+               <string notr="true">QLCDNumber {
+	border: 1px solid black;
+	border-radius: 5px;
+	background-color: rgb(220, 220, 220);
+	color: rgb(50, 50, 50);
+}</string>
               </property>
               <property name="frameShape">
                <enum>QFrame::NoFrame</enum>
@@ -170,9 +176,12 @@ color: rgb(0, 255, 0);</string>
             <item row="1" column="2">
              <widget class="QLCDNumber" name="lcdNumber_3">
               <property name="styleSheet">
-               <string notr="true">
-background-color: rgb(0, 0, 0);
-color: rgb(0, 255, 0);</string>
+               <string notr="true">QLCDNumber {
+	border: 1px solid black;
+	border-radius: 5px;
+	background-color: rgb(220, 220, 220);
+	color: rgb(50, 50, 50);
+}</string>
               </property>
               <property name="frameShape">
                <enum>QFrame::NoFrame</enum>
@@ -218,9 +227,12 @@ color: rgb(0, 255, 0);</string>
             <item row="2" column="2">
              <widget class="QLCDNumber" name="lcdNumber_2">
               <property name="styleSheet">
-               <string notr="true">
-background-color: rgb(0, 0, 0);
-color: rgb(0, 255, 0);</string>
+               <string notr="true">QLCDNumber {
+	border: 1px solid black;
+	border-radius: 5px;
+	background-color: rgb(220, 220, 220);
+	color: rgb(50, 50, 50);
+}</string>
               </property>
               <property name="frameShape">
                <enum>QFrame::NoFrame</enum>
@@ -265,9 +277,12 @@ color: rgb(0, 255, 0);</string>
             <item row="3" column="2">
              <widget class="QLCDNumber" name="lcdNumber">
               <property name="styleSheet">
-               <string notr="true">
-background-color: rgb(0, 0, 0);
-color: rgb(0, 255, 0);</string>
+               <string notr="true">QLCDNumber {
+	border: 1px solid black;
+	border-radius: 5px;
+	background-color: rgb(220, 220, 220);
+	color: rgb(50, 50, 50);
+}</string>
               </property>
               <property name="frameShape">
                <enum>QFrame::NoFrame</enum>
@@ -313,9 +328,12 @@ color: rgb(0, 255, 0);</string>
             <item row="5" column="2">
              <widget class="QLCDNumber" name="lcdNumber_8">
               <property name="styleSheet">
-               <string notr="true">
-background-color: rgb(0, 0, 0);
-color: rgb(0, 255, 0);</string>
+               <string notr="true">QLCDNumber {
+	border: 1px solid black;
+	border-radius: 5px;
+	background-color: rgb(220, 220, 220);
+	color: rgb(50, 50, 50);
+}</string>
               </property>
               <property name="frameShape">
                <enum>QFrame::NoFrame</enum>
@@ -360,9 +378,12 @@ color: rgb(0, 255, 0);</string>
             <item row="4" column="2">
              <widget class="QLCDNumber" name="lcdNumber_7">
               <property name="styleSheet">
-               <string notr="true">
-background-color: rgb(0, 0, 0);
-color: rgb(0, 255, 0);</string>
+               <string notr="true">QLCDNumber {
+	border: 1px solid black;
+	border-radius: 5px;
+	background-color: rgb(220, 220, 220);
+	color: rgb(50, 50, 50);
+}</string>
               </property>
               <property name="frameShape">
                <enum>QFrame::NoFrame</enum>
@@ -484,12 +505,15 @@ color: rgb(0, 255, 0);</string>
             </item>
            </layout>
           </item>
-          <item row="2" column="0" rowspan="2">
+          <item row="2" column="0">
            <widget class="QLCDNumber" name="ActualValue">
             <property name="styleSheet">
-             <string notr="true">
-background-color: rgb(0, 0, 0);
-color: rgb(0, 255, 0);</string>
+             <string notr="true">QLCDNumber {
+	border: 2px solid black;
+	border-radius: 5px;
+	background-color: rgb(220, 220, 220);
+	color: rgb(50, 50, 50);
+}</string>
             </property>
             <property name="frameShape">
              <enum>QFrame::NoFrame</enum>
@@ -534,9 +558,12 @@ color: rgb(0, 255, 0);</string>
                     </font>
                    </property>
                    <property name="styleSheet">
-                    <string notr="true">
-background-color: rgb(0, 0, 0);
-color: rgb(0, 255, 0);</string>
+                    <string notr="true">QLCDNumber {
+	border: 1px solid black;
+	border-radius: 5px;
+	background-color: rgb(220, 220, 220);
+	color: rgb(50, 50, 50);
+}</string>
                    </property>
                    <property name="frameShape">
                     <enum>QFrame::NoFrame</enum>
@@ -580,9 +607,12 @@ color: rgb(0, 255, 0);</string>
                     </font>
                    </property>
                    <property name="styleSheet">
-                    <string notr="true">
-background-color: rgb(0, 0, 0);
-color: rgb(0, 255, 0);</string>
+                    <string notr="true">QLCDNumber {
+	border: 1px solid black;
+	border-radius: 5px;
+	background-color: rgb(220, 220, 220);
+	color: rgb(50, 50, 50);
+}</string>
                    </property>
                    <property name="frameShape">
                     <enum>QFrame::NoFrame</enum>
@@ -606,9 +636,12 @@ color: rgb(0, 255, 0);</string>
                     </font>
                    </property>
                    <property name="styleSheet">
-                    <string notr="true">
-background-color: rgb(0, 0, 0);
-color: rgb(0, 255, 0);</string>
+                    <string notr="true">QLCDNumber {
+	border: 1px solid black;
+	border-radius: 5px;
+	background-color: rgb(220, 220, 220);
+	color: rgb(50, 50, 50);
+}</string>
                    </property>
                    <property name="frameShape">
                     <enum>QFrame::NoFrame</enum>
@@ -665,9 +698,12 @@ color: rgb(0, 255, 0);</string>
                     </font>
                    </property>
                    <property name="styleSheet">
-                    <string notr="true">
-background-color: rgb(0, 0, 0);
-color: rgb(0, 255, 0);</string>
+                    <string notr="true">QLCDNumber {
+	border: 1px solid black;
+	border-radius: 5px;
+	background-color: rgb(220, 220, 220);
+	color: rgb(50, 50, 50);
+}</string>
                    </property>
                    <property name="frameShape">
                     <enum>QFrame::NoFrame</enum>
@@ -731,9 +767,12 @@ color: rgb(0, 255, 0);</string>
                     </font>
                    </property>
                    <property name="styleSheet">
-                    <string notr="true">
-background-color: rgb(0, 0, 0);
-color: rgb(0, 255, 0);</string>
+                    <string notr="true">QLCDNumber {
+	border: 1px solid black;
+	border-radius: 5px;
+	background-color: rgb(220, 220, 220);
+	color: rgb(50, 50, 50);
+}</string>
                    </property>
                    <property name="frameShape">
                     <enum>QFrame::NoFrame</enum>
@@ -777,9 +816,12 @@ color: rgb(0, 255, 0);</string>
                     </font>
                    </property>
                    <property name="styleSheet">
-                    <string notr="true">
-background-color: rgb(0, 0, 0);
-color: rgb(0, 255, 0);</string>
+                    <string notr="true">QLCDNumber {
+	border: 1px solid black;
+	border-radius: 5px;
+	background-color: rgb(220, 220, 220);
+	color: rgb(50, 50, 50);
+}</string>
                    </property>
                    <property name="frameShape">
                     <enum>QFrame::NoFrame</enum>
@@ -803,9 +845,12 @@ color: rgb(0, 255, 0);</string>
                     </font>
                    </property>
                    <property name="styleSheet">
-                    <string notr="true">
-background-color: rgb(0, 0, 0);
-color: rgb(0, 255, 0);</string>
+                    <string notr="true">QLCDNumber {
+	border: 1px solid black;
+	border-radius: 5px;
+	background-color: rgb(220, 220, 220);
+	color: rgb(50, 50, 50);
+}</string>
                    </property>
                    <property name="frameShape">
                     <enum>QFrame::NoFrame</enum>
@@ -862,9 +907,12 @@ color: rgb(0, 255, 0);</string>
                     </font>
                    </property>
                    <property name="styleSheet">
-                    <string notr="true">
-background-color: rgb(0, 0, 0);
-color: rgb(0, 255, 0);</string>
+                    <string notr="true">QLCDNumber {
+	border: 1px solid black;
+	border-radius: 5px;
+	background-color: rgb(220, 220, 220);
+	color: rgb(50, 50, 50);
+}</string>
                    </property>
                    <property name="frameShape">
                     <enum>QFrame::NoFrame</enum>
@@ -928,9 +976,12 @@ color: rgb(0, 255, 0);</string>
                     </font>
                    </property>
                    <property name="styleSheet">
-                    <string notr="true">
-background-color: rgb(0, 0, 0);
-color: rgb(0, 255, 0);</string>
+                    <string notr="true">QLCDNumber {
+	border: 1px solid black;
+	border-radius: 5px;
+	background-color: rgb(220, 220, 220);
+	color: rgb(50, 50, 50);
+}</string>
                    </property>
                    <property name="frameShape">
                     <enum>QFrame::NoFrame</enum>
@@ -974,9 +1025,12 @@ color: rgb(0, 255, 0);</string>
                     </font>
                    </property>
                    <property name="styleSheet">
-                    <string notr="true">
-background-color: rgb(0, 0, 0);
-color: rgb(0, 255, 0);</string>
+                    <string notr="true">QLCDNumber {
+	border: 1px solid black;
+	border-radius: 5px;
+	background-color: rgb(220, 220, 220);
+	color: rgb(50, 50, 50);
+}</string>
                    </property>
                    <property name="frameShape">
                     <enum>QFrame::NoFrame</enum>
@@ -1000,9 +1054,12 @@ color: rgb(0, 255, 0);</string>
                     </font>
                    </property>
                    <property name="styleSheet">
-                    <string notr="true">
-background-color: rgb(0, 0, 0);
-color: rgb(0, 255, 0);</string>
+                    <string notr="true">QLCDNumber {
+	border: 1px solid black;
+	border-radius: 5px;
+	background-color: rgb(220, 220, 220);
+	color: rgb(50, 50, 50);
+}</string>
                    </property>
                    <property name="frameShape">
                     <enum>QFrame::NoFrame</enum>
@@ -1059,9 +1116,12 @@ color: rgb(0, 255, 0);</string>
                     </font>
                    </property>
                    <property name="styleSheet">
-                    <string notr="true">
-background-color: rgb(0, 0, 0);
-color: rgb(0, 255, 0);</string>
+                    <string notr="true">QLCDNumber {
+	border: 1px solid black;
+	border-radius: 5px;
+	background-color: rgb(220, 220, 220);
+	color: rgb(50, 50, 50);
+}</string>
                    </property>
                    <property name="frameShape">
                     <enum>QFrame::NoFrame</enum>
@@ -1125,9 +1185,12 @@ color: rgb(0, 255, 0);</string>
                     </font>
                    </property>
                    <property name="styleSheet">
-                    <string notr="true">
-background-color: rgb(0, 0, 0);
-color: rgb(0, 255, 0);</string>
+                    <string notr="true">QLCDNumber {
+	border: 1px solid black;
+	border-radius: 5px;
+	background-color: rgb(220, 220, 220);
+	color: rgb(50, 50, 50);
+}</string>
                    </property>
                    <property name="frameShape">
                     <enum>QFrame::NoFrame</enum>
@@ -1171,9 +1234,12 @@ color: rgb(0, 255, 0);</string>
                     </font>
                    </property>
                    <property name="styleSheet">
-                    <string notr="true">
-background-color: rgb(0, 0, 0);
-color: rgb(0, 255, 0);</string>
+                    <string notr="true">QLCDNumber {
+	border: 1px solid black;
+	border-radius: 5px;
+	background-color: rgb(220, 220, 220);
+	color: rgb(50, 50, 50);
+}</string>
                    </property>
                    <property name="frameShape">
                     <enum>QFrame::NoFrame</enum>
@@ -1197,9 +1263,12 @@ color: rgb(0, 255, 0);</string>
                     </font>
                    </property>
                    <property name="styleSheet">
-                    <string notr="true">
-background-color: rgb(0, 0, 0);
-color: rgb(0, 255, 0);</string>
+                    <string notr="true">QLCDNumber {
+	border: 1px solid black;
+	border-radius: 5px;
+	background-color: rgb(220, 220, 220);
+	color: rgb(50, 50, 50);
+}</string>
                    </property>
                    <property name="frameShape">
                     <enum>QFrame::NoFrame</enum>
@@ -1256,9 +1325,12 @@ color: rgb(0, 255, 0);</string>
                     </font>
                    </property>
                    <property name="styleSheet">
-                    <string notr="true">
-background-color: rgb(0, 0, 0);
-color: rgb(0, 255, 0);</string>
+                    <string notr="true">QLCDNumber {
+	border: 1px solid black;
+	border-radius: 5px;
+	background-color: rgb(220, 220, 220);
+	color: rgb(50, 50, 50);
+}</string>
                    </property>
                    <property name="frameShape">
                     <enum>QFrame::NoFrame</enum>
@@ -1338,9 +1410,12 @@ color: rgb(0, 255, 0);</string>
                </font>
               </property>
               <property name="styleSheet">
-               <string notr="true">
-background-color: rgb(0, 0, 0);
-color: rgb(0, 255, 0);</string>
+               <string notr="true">QLCDNumber {
+	border: 1px solid black;
+	border-radius: 5px;
+	background-color: rgb(220, 220, 220);
+	color: rgb(50, 50, 50);
+}</string>
               </property>
               <property name="frameShape">
                <enum>QFrame::NoFrame</enum>
@@ -1387,9 +1462,12 @@ color: rgb(0, 255, 0);</string>
                </font>
               </property>
               <property name="styleSheet">
-               <string notr="true">
-background-color: rgb(0, 0, 0);
-color: rgb(0, 255, 0);</string>
+               <string notr="true">QLCDNumber {
+	border: 1px solid black;
+	border-radius: 5px;
+	background-color: rgb(220, 220, 220);
+	color: rgb(50, 50, 50);
+}</string>
               </property>
               <property name="frameShape">
                <enum>QFrame::NoFrame</enum>
@@ -1413,9 +1491,12 @@ color: rgb(0, 255, 0);</string>
                </font>
               </property>
               <property name="styleSheet">
-               <string notr="true">
-background-color: rgb(0, 0, 0);
-color: rgb(0, 255, 0);</string>
+               <string notr="true">QLCDNumber {
+	border: 1px solid black;
+	border-radius: 5px;
+	background-color: rgb(220, 220, 220);
+	color: rgb(50, 50, 50);
+}</string>
               </property>
               <property name="frameShape">
                <enum>QFrame::NoFrame</enum>
@@ -1478,9 +1559,12 @@ color: rgb(0, 255, 0);</string>
                </font>
               </property>
               <property name="styleSheet">
-               <string notr="true">
-background-color: rgb(0, 0, 0);
-color: rgb(0, 255, 0);</string>
+               <string notr="true">QLCDNumber {
+	border: 1px solid black;
+	border-radius: 5px;
+	background-color: rgb(220, 220, 220);
+	color: rgb(50, 50, 50);
+}</string>
               </property>
               <property name="frameShape">
                <enum>QFrame::NoFrame</enum>
@@ -1862,22 +1946,6 @@ color: rgb(0, 255, 0);</string>
    </hints>
   </connection>
   <connection>
-   <sender>widget</sender>
-   <signal>valueChanged(int)</signal>
-   <receiver>ActualValue</receiver>
-   <slot>display(int)</slot>
-   <hints>
-    <hint type="sourcelabel">
-     <x>330</x>
-     <y>335</y>
-    </hint>
-    <hint type="destinationlabel">
-     <x>1005</x>
-     <y>288</y>
-    </hint>
-   </hints>
-  </connection>
-  <connection>
    <sender>MinValueSlider</sender>
    <signal>valueChanged(int)</signal>
    <receiver>widget</receiver>
@@ -2178,6 +2246,22 @@ color: rgb(0, 255, 0);</string>
     <hint type="destinationlabel">
      <x>466</x>
      <y>421</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>widget</sender>
+   <signal>valueChanged(int)</signal>
+   <receiver>ActualValue</receiver>
+   <slot>display(int)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>330</x>
+     <y>335</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>1005</x>
+     <y>288</y>
     </hint>
    </hints>
   </connection>

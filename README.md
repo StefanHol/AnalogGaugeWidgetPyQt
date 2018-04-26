@@ -17,3 +17,7 @@ Custom QWidget
 2. add QWidget from Palette
 3. add custom widget to QWidget
 ![AnalogGaugeWidgetDemo Image](img/3._Add_custom_widget.JPG?raw=true "Add custom widget")
+
+## Parameters
+- Just play with the demo
+![AnalogGaugeWidgetDemo Image](img/Example_without_needle.JPG?raw=true "Add custom widget")
